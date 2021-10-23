@@ -32,6 +32,8 @@ dependencies:
   http: ^0.13.4
   google_maps_flutter: ^2.0.2
   location: ^3.0.2
+  cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^9.2.0
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -70,6 +72,7 @@ flutter:
     - assets/thumbnails/3.jpg
     - assets/thumbnails/4.jpg
     - assets/youtube_logo.png
+    - assets/images/logo.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
